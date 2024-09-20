@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Wa Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warmaz118/Wa-Manager-Server.git"
+  },
+  "keywords": [
+    "WA",
+    "Manager",
+    "Warmaz118",
+    "Management"
+  ],
+  "author": "Ikhsan118",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warmaz118/Wa-Manager-Server/issues"
+  },
+  "homepage": "https://github.com/warmaz118/Wa-Manager-Server#readme"
+}
